@@ -280,15 +280,15 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 
 Item # | Description | Completed
 --- | --- | ---
-1a | 1st Favorite emoji | ADD_TEXT_TO_THIS_COLUMN
+1a | 1st Favorite emoji | 😵‍💫 
 1b | Link to `commit #1 from Github.com` |
 1c | Link to markdown tables docs |
-1d | What does `log` do? |
-2a | 2nd Favorite emoji |
+1d | What does `log` do? | Shows log of past commits
+2a | 2nd Favorite emoji | 🤑
 2b | Link to `commit #2 from Github Desktop` |
 2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |
-2e | 3rd Favorite emoji |
+2e | 3rd Favorite emoji | 🎮
 2f | Link to `commit #4 from VS Code` |
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
