@@ -250,7 +250,7 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 | 1c     | Link to markdown tables docs                          | [Markdown Tables](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet/)               |
 | 1d     | What does `log` do?                                   | Shows log of past commits                                                                          |
 | 2a     | 2nd Favorite emoji                                    | 🤑                                                                                                 |
-| 2b     | Link to `commit #2 from Github Desktop`               | [commit #2 from VS Code](c4f4681f72982a9df6226943dbdf5f928c97f324)
+| 2b     | Link to `commit #2 from Github Desktop`               | [commit #2 from Github Desktop](c4f4681f72982a9df6226943dbdf5f928c97f324)
 | 2c     | Full path to your working directory                   | /Users/dylanameres/Documents/GitHub/learn-git-milestones/README.md
 | 2d     | Link to `commit #3 from CLI`                          | [commit #3 from CLI](31362aa6e0d958492182a818d96a4437688fdf03)
 | 2e     | 3rd Favorite emoji                                    | 👻                                                                                                 |
