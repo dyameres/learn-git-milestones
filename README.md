@@ -246,7 +246,7 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 | Item # | Description                                           | Completed                                                                                          |
 | ------ | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | 1a     | 1st Favorite emoji                                    | 😵‍💫                                                                                                 |
-| 1b     | Link to `commit #1 from Github.com`                   | [commit #1 from Github.com](https://github.com/dyameres/learn-git-milestones/edit/main/README.md/) |
+| 1b     | Link to `commit #1 from Github.com`                   | [commit #1 from Github.com](b2651975beb5c6b3cb8ef623c61a17d9ae9911ae) |
 | 1c     | Link to markdown tables docs                          | [Markdown Tables](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet/)               |
 | 1d     | What does `log` do?                                   | Shows log of past commits                                                                          |
 | 2a     | 2nd Favorite emoji                                    | 🤑                                                                                                 |
