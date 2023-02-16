@@ -288,7 +288,7 @@ Item # | Description | Completed
 2b | Link to `commit #2 from Github Desktop` |
 2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |
-2e | 3rd Favorite emoji | 🎮
+2e | 3rd Favorite emoji | 👻 
 2f | Link to `commit #4 from VS Code` |
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
