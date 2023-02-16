@@ -254,7 +254,7 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 | 2c     | Full path to your working directory                   | /Users/dylanameres/Documents/GitHub/learn-git-milestones/README.md
 | 2d     | Link to `commit #3 from CLI`                          | [commit #3 from CLI](31362aa6e0d958492182a818d96a4437688fdf03)
 | 2e     | 3rd Favorite emoji                                    | 👻                                                                                                 |
-| 2f     | Link to `commit #4 from VS Code`                      |
+| 2f     | Link to `commit #4 from VS Code`                      |[commit #4 from VS Code](546683e57caa467f5a0e440d5bbd97146f9d56fd)
 | 3a     | Link to `my-awesome-project` github.com repo page     |
 | 4a     | Link to `my-awesome-project` github.io "project site" |
 
